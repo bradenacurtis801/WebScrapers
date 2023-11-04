@@ -1,0 +1,30 @@
+{
+    "participants": [
+        {
+            "id": "P001",
+            "name": "John Doe",
+            "email": "johndoe@example.com",
+            "phone_number": "+1234567890",
+            "whatsapp_number": "+1234567890",
+            "organization": "ABC Corp.",
+            "position": "Manager",
+            "additional_info": {
+                "preferred_time": "Evening",
+                "notes": "Prefers video calls"
+            }
+        },
+        {
+            "id": "P002",
+            "name": "Jane Doe",
+            "email": "janedoe@example.com",
+            "phone_number": "+0987654321",
+            "whatsapp_number": "+0987654321",
+            "organization": "XYZ Inc.",
+            "position": "Director",
+            "additional_info": {
+                "preferred_time": "Morning",
+                "notes": "Lactose intolerant (for event planning)"
+            }
+        }
+    ]
+}

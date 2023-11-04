@@ -1,0 +1,18 @@
+Introduction:
+The meeting transcript discusses the topic of software and method patents. The speaker explains the concepts of novelty and obviousness in patent law and how they are evaluated. The example of Velcro is used to illustrate the importance of uniqueness and non-obviousness in obtaining a patent.
+
+Key Points:
+1. Software and method patents have specific criteria for evaluation, including novelty and obviousness.
+2. Novelty refers to an invention being new and not previously seen or done.
+3. Obviousness is a high standard with a high rejection rate. It refers to whether an invention would be considered obvious to someone skilled in the field.
+4. The patent level has a different standard of obviousness from common sense, which is aimed at preventing everything from being patented.
+5. The example of Velcro demonstrates the importance of uniqueness and non-obviousness in obtaining a patent.
+
+Decisions Made:
+No specific decisions were made in the meeting transcript.
+
+Action Items:
+No specific action items were mentioned in the meeting transcript.
+
+Conclusion:
+The meeting provided a basic understanding of the criteria used to evaluate software and method patents, focusing on novelty and obviousness. The example of Velcro illustrated the importance of uniqueness and non-obviousness in obtaining a patent. No specific decisions or action items were mentioned in the meeting transcript.

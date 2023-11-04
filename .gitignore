@@ -1,0 +1,22 @@
+# Ignore all .log files:
+*.log
+
+# Ignore Python compiled files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore node_modules directory (common in JavaScript/TypeScript projects):
+node_modules/
+
+# Ignore all files in the bin directory (common for binaries):
+bin/
+
+# Ignore the build output directory (common in compiled projects):
+build/
+
+# Ignore .env files that may contain sensitive information:
+.env
+
+# Ignore system-specific files that are not related to the codebase:
+.DS_Store   # macOS desktop services store
+Thumbs.db   # Windows thumbnail cache
