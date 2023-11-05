@@ -1,17 +1,50 @@
 from common.constants import *
+import json
 
+# Using json.dumps in Python to Safely Generate JavaScript Snippet
+# ---------------------------------------------------------------
+# This Python script generates a JavaScript (JS) snippet that is intended
+# to be executed in the context of a web page, within the web browser.
+# The script uses `json.dumps` for the following reasons:
+#
+# 1. Correct Quotation:
+#    The `json.dumps` function is used to safely encode Python strings
+#    as valid JSON/JavaScript string literals. It ensures that any special
+#    characters, particularly quotation marks, are correctly escaped.
+#    This is essential because the JavaScript code will be passed as a
+#    string from Python to the Selenium driver, which then executes it
+#    within the browser. `json.dumps` handles the proper insertion of
+#    quotes within the JavaScript strings to prevent syntax errors.
+#
+# 2. String Literal Safety:
+#    Using `json.dumps` prevents potential JS injection issues and syntax
+#    errors that could arise from directly concatenating or formatting
+#    strings within the JS code. It converts Python string values into
+#    safe JS string literals, which can then be safely embedded within
+#    the JS snippet.
+#
+# 3. Code Clarity:
+#    By clearly delineating Python code from JavaScript code, `json.dumps`
+#    allows for more readable and maintainable code. It clarifies the
+#    intention to use a Python variable within the JS snippet, making the
+#    code self-documenting.
+#
+# The generated JS snippet is used to query the DOM of a web page to extract
+# participant names from a list and identify if any of them are marked as the
+# host of the meeting. This script is typically used in the context of
+# web automation using the Selenium WebDriver.
 
 # JS snippet for getting participant names and checking for the host
 EXTRACT_PARTICIPANTS = f"""
-  var participantsList = document.querySelector('{PARTICIPANTS_LIST_SELECTOR}');
+  var participantsList = document.querySelector({json.dumps(PARTICIPANTS_LIST_SELECTOR)});
   if (participantsList) {{
-    let participants = Array.from(participantsList.querySelectorAll('{PARTICIPANT_ITEM_SELECTOR}')).map(participant => {{
+    let participants = Array.from(participantsList.querySelectorAll({json.dumps(PARTICIPANT_ITEM_SELECTOR)})).map(participant => {{
       // Find the name span
-      let nameElement = participant.querySelector('{PARTICIPANT_NAME_SELECTOR}');
+      let nameElement = participant.querySelector({json.dumps(PARTICIPANT_NAME_SELECTOR)});
       let nameText = nameElement ? nameElement.textContent.trim() : '';
   
       // Check if this participant has an additional descriptor indicating they are the host
-      let additionalDescriptor = participant.querySelector('{HOST_INDICATOR_SELECTOR}');
+      let additionalDescriptor = participant.querySelector({json.dumps(HOST_INDICATOR_SELECTOR)});
       if (additionalDescriptor && additionalDescriptor.textContent.includes('Meeting host')) {{
         nameText += ' (Host)';
       }}
@@ -82,7 +115,7 @@ GET_MEETING_URL_SCRIPT = """
 def js_inject_ids_script(last_id):
     # Note: Make sure you correctly handle the string conversion of last_id.
     return f"""
-    var container = document.querySelector('{CAPTION_CONTAINER_SELECTOR}');
+    var container = document.querySelector({json.dumps(CAPTION_CONTAINER_SELECTOR)});
     if (container) {{
         var lastID = {last_id};
         var spans = container.querySelectorAll("span");

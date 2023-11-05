@@ -4,8 +4,8 @@ from selenium.webdriver.common.alert import Alert
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from services.summarizeText import *
 from common.js_injection_strings import *
+from common.decorators import *
 import datetime
 import glob
 import os
@@ -215,12 +215,6 @@ def create_directory(directory_path):
         return True
     except Exception:
         return False
-
-
-def generate_summary(filepath):
-    # Assuming get_summary() is a function that generates a summary from the file
-    return get_summary(filepath, template_type='structured_summary')
-
 
 def save_summary_to_file(filepath, summary):
     with open(filepath, 'w') as file:
