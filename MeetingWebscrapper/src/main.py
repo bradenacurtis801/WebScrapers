@@ -15,18 +15,18 @@ def app():
     driver.run_scraper(base_directory,classname)
 
 def main():
-    # # #normal startup (with webscrapping)
+    # normal startup (with webscrapping)
     app()
     
-    # ######################### Testing AI API functionality with large text files. Currently trying different approaches i.e. chunk summary and window sliding techinque #################################
-    # # # Path to your text file
-    # # file_path = "C:/Users/Braden/OneDrive - Utah Valley University/Desktop/PrasadsClass/LectureNotes/PrasadsClass_2023-11-01/PrasadsClass_2023-11-01.txt"
+    # ######################## Testing AI API functionality with large text files. Currently trying different approaches i.e. chunk summary and window sliding techinque #################################
+    # # Path to your text file
+    # file_path = "C:/Users/Braden/OneDrive - Utah Valley University/Desktop/PrasadsClass/LectureNotes/PrasadsClass_2023-11-04/PrasadsClass_2023-11-04.txt"
 
-    # # # Call the function
-    # # summarized_text = chunkAndSummarize(file_path, template_type='structured_summary')
+    # # Call the function
+    # summarized_text = chunkAndSummarize(file_path, template_type='structured_summary')
 
-    # # # Print the summarized text
-    # # print(summarized_text)
+    # # Print the summarized text
+    # print(summarized_text)
     
     # myInstance = GoogleMeetScraper(DUMMY_EMAIL,DUMMY_PASSWORD)
     

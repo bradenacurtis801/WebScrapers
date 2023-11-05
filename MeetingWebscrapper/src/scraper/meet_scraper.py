@@ -170,42 +170,6 @@ class GoogleMeetScraper:
         log_participant_updates(filepath, joined, 'joined')
         log_participant_updates(filepath, left, 'left')
         self.participants = current_participants  # Update the participants list for the next check
-
-    def run_scraper(self, save_directory, classname):
-        try:
-            # Navigate and interact
-            meeting_url = get_meeting_url(self.driver)
-            self.navigate_to_meeting(meeting_url)
-
-            # Set the file paths
-            folder_name = f"{classname}_{datetime.datetime.now().strftime('%Y-%m-%d')}"
-            filename = f"{folder_name}.txt"
-            full_folder_path = os.path.join(save_directory, folder_name)
-            full_file_path = os.path.join(full_folder_path, filename)
-            summary_file_path = os.path.join(full_folder_path, 'Summary.txt')
-
-            # Create directory
-            create_directory(full_folder_path)
-
-            # Transcribe the meeting
-            self.transcribe_meeting(full_file_path)
-
-            # Generate and save summary
-            summary = generate_summary(full_file_path)
-            save_summary_to_file(summary_file_path, summary)
-
-            # Close the driver
-            self.driver.close()
-
-        except KeyboardInterrupt:
-            print("Interrupted by user. Exiting...")
-        except Exception as e:
-            print(f"An error occurred: {e}")
-        finally:
-            # Always perform these cleanup actions
-            self.cleanup()
-            if self.driver:
-                self.driver.quit()
                 
     def run_scraper(self, save_directory, classname):
         try:
@@ -235,7 +199,7 @@ class GoogleMeetScraper:
 
     def generate_and_save_summary(self):
         # Generate a summary of the meeting and save it
-        summary = generate_summary(self.full_file_path)
+        summary = chunkAndSummarize(self.full_file_path, template_type='structured_summary')
         save_summary_to_file(self.summary_file_path, summary)
 
     def cleanup(self):

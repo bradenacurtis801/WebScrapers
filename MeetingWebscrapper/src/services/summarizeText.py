@@ -92,6 +92,7 @@ def _summarize_chunk(chunk):
     return get_summary('temp\\temp_chunk_{}.txt'.format(os.getpid()), template_type="chunk_summary")
 
 @timing_decorator
+@decorator_record_algorithm_type
 def chunkAndSummarize(path, template_type='structured_summary', chunk_size=3500):
     """
     Divides the text into meaningful chunks and summarizes each chunk individually using multiprocessing.
@@ -144,6 +145,7 @@ def _threaded_summarize_chunk(chunk, queue):
     queue.put(summarized_chunk)
 
 @timing_decorator
+@decorator_record_algorithm_type
 def sliding_window_summarize_method(path, template_type='chunk_summary', window_size=3500, overlap=500, max_threads=4):
     current_working_directory = os.getcwd()
     print(current_working_directory)
