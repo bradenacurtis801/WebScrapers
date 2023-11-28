@@ -119,19 +119,21 @@ def chunkAndSummarize(path, template_type='structured_summary', chunk_size=3500)
     num_processors = min(len(chunks), cpu_count())
     
     # Use multiprocessing to summarize each chunk concurrently
-    with Pool(processes=num_processors) as pool:
-        summarized_chunks = pool.map(_summarize_chunk, chunks)
+    try:
+        with Pool(processes=num_processors) as pool:
+            summarized_chunks = pool.map(_summarize_chunk, chunks)
 
-    # Combine the summarized chunks into a single text
-    combined_summaries = ' '.join(summarized_chunks)
-    
-    # Write the combined summaries to a temporary file
-    with open('temp\\temp_combined_summaries.txt', 'w') as temp_file:
-        temp_file.write(combined_summaries)
-    
-    # Use the get_summary function to summarize the combined summaries
-    overall_summary = get_summary('temp\\temp_combined_summaries.txt', template_type)
-    
+        # Combine the summarized chunks into a single text
+        combined_summaries = ' '.join(summarized_chunks)
+        
+        # Write the combined summaries to a temporary file
+        with open('temp\\temp_combined_summaries.txt', 'w') as temp_file:
+            temp_file.write(combined_summaries)
+        
+        # Use the get_summary function to summarize the combined summaries
+        overall_summary = get_summary('temp\\temp_combined_summaries.txt', template_type)
+    except Exception:
+        pass
     cleanup_temp_files()  # Call the cleanup function at the end
     
     return overall_summary

@@ -3,6 +3,7 @@ import warnings
 # from services.summarizeText import *
 import os
 import logging
+from common.utils import cleanup_temp_files
 
 # Configure logging
 logging.basicConfig(filename='error.log', level=logging.ERROR)
@@ -29,6 +30,7 @@ def app():
 def main():
     # normal startup (with webscrapping)
     app()
+    # cleanup_temp_files()
 
     # ######################## Testing AI API functionality with large text files. Currently trying different approaches i.e. chunk summary and window sliding techinque #################################
     # # Path to your text file
