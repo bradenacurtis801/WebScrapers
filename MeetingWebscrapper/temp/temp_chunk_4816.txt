@@ -1,0 +1,97 @@
+asad Reddy: correctly
+Prasad Reddy: So what you do is you take the
+Prasad Reddy: patient records table.
+Prasad Reddy: And you join the staff and you join
+Prasad Reddy: the patients to that?
+Prasad Reddy: some kind of inner join
+Prasad Reddy: and combining the
+Prasad Reddy: patient records.
+Prasad Reddy: All three tables combined
+Prasad Reddy: one table.
+Kotha Yashwanth: we will we have all the columns in
+Kotha Yashwanth: all three Tables by or
+Kotha Yashwanth: only
+Prasad Reddy: You you when you do the join in the
+Prasad Reddy: patient for example patient has a
+Prasad Reddy: column called a shoe size and they
+Prasad Reddy: have a blood group is that is it
+Prasad Reddy: necessary for us?
+Kotha Yashwanth: No.
+Prasad Reddy: But we do need to know the patient's
+Prasad Reddy: age.
+Kotha Yashwanth: Correct.
+Prasad Reddy: So we take the patient's age column
+Prasad Reddy: and we basically join that to the
+Prasad Reddy: patient records.
+Kotha Yashwanth: Okay.
+Prasad Reddy: And then similarly and that is at the
+Prasad Reddy: very match and the patient ID because
+Prasad Reddy: the patient ID is there in both
+Prasad Reddy: tables.
+Prasad Reddy: Similarly, you basically take the
+Prasad Reddy: staff.
+Prasad Reddy: And the patient records
+Prasad Reddy: at the
+Prasad Reddy: right
+Prasad Reddy: and once you have the staff ID
+Prasad Reddy: joining what will happen?
+Prasad Reddy: You basically got in
+Prasad Reddy: that is combining these
+Prasad Reddy: components that is
+Prasad Reddy: temporary table.
+Kotha Yashwanth: Okay.
+Kotha Yashwanth: Okay.
+Prasad Reddy: This is also called a flat table
+Prasad Reddy: because it does not have any
+Prasad Reddy: hierarchy, right?
+Prasad Reddy: here in the childhood type
+Prasad Reddy: relationship
+Prasad Reddy: so in
+Prasad Reddy: always creating a flat
+Prasad Reddy: When you're joining that process is
+Prasad Reddy: also called creating a flatness.
+Prasad Reddy: Is called
+Prasad Reddy: It is opposite of
+Braden Curtis: So just you just have all the raw
+Braden Curtis: data in one table.
+Prasad Reddy: That is correct.
+Prasad Reddy: But this why do you keep it as a
+Prasad Reddy: temporary tomorrow?
+Prasad Reddy: You have a question?
+Prasad Reddy: the doctor
+Prasad Reddy: he's seeing more male patients
+Prasad Reddy: female patients.
+Prasad Reddy: Now
+Prasad Reddy: question right now.
+Prasad Reddy: You're
+Prasad Reddy: differently, right?
+Kotha Yashwanth: I no need table by I know the answer.
+Kotha Yashwanth: 
+Kotha Yashwanth: 
+Prasad Reddy: you you don't need the table you just
+Prasad Reddy: 
+Braden Curtis: Those are too well.
+Prasad Reddy: okay.
+Prasad Reddy: So here you because for a different
+Prasad Reddy: question you're going to join them in
+Prasad Reddy: a different way than you will have
+Prasad Reddy: another
+Prasad Reddy: That is why those
+Prasad Reddy: temporary table for
+Prasad Reddy: analysis.
+Kotha Yashwanth: Is there any time limit how long they
+Kotha Yashwanth: will be there or?
+Prasad Reddy: They will say those are nothing but a
+Prasad Reddy: regular tables only and if you want
+Prasad Reddy: to keep them it they will stay like a
+Prasad Reddy: collector.
+Prasad Reddy: but if you don't want
+Prasad Reddy: just delete them after the analysis
+Prasad Reddy: is done.
+Braden Curtis: so I guess
+Prasad Reddy: Suppose if your database has got a
+Prasad Reddy: hundred tables from time to time.
+Prasad Reddy: You might do 10 20, but if you just
+Prasad Reddy: leave it if you don't delete those
+Prasad Reddy: temporary tables.
+P

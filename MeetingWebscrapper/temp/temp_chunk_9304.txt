@@ -1,0 +1,100 @@
+was talking to suchandra yashwanth.
+Braden Curtis: Could you I mean, could you just like
+Braden Curtis: like if you wanted to specify a short
+Braden Curtis: version of postgrass you could just
+Braden Curtis: do postgres and then the tag for the
+Braden Curtis: version.
+Prasad Reddy: upgrade upgrade
+Prasad Reddy: the postgres
+Prasad Reddy: when you
+Prasad Reddy: security
+Prasad Reddy: have
+Prasad Reddy: So
+Prasad Reddy: a security purposes, but
+Prasad Reddy: But sometimes you may have
+Prasad Reddy: functionality also change.
+Prasad Reddy: sometimes when you do even in Windows
+Prasad Reddy: when you
+Prasad Reddy: When you're like, you know update the
+Prasad Reddy: softwares.
+Prasad Reddy: the relationship
+Prasad Reddy: break sometimes.
+Prasad Reddy: Okay while you guys are doing.
+Prasad Reddy: Are yashwant?
+Prasad Reddy: to do a
+Prasad Reddy: when will you be able to put some
+Prasad Reddy: time to make this
+Kotha Yashwanth: things coming up but gonna
+Kotha Yashwanth: I did not I did not
+Prasad Reddy: hours today?
+Kotha Yashwanth: good for five hours today.
+Prasad Reddy: Oh, okay.
+Prasad Reddy: Okay, what's going on, right?
+Prasad Reddy: Okay.
+Kotha Yashwanth: Just a work for yeah.
+Prasad Reddy: Okay, that is okay.
+Prasad Reddy: But you know.
+Kotha Yashwanth: Yeah.
+Kotha Yashwanth: I will.
+Prasad Reddy: I just want to give you an update me
+Prasad Reddy: and Rakesh.
+Prasad Reddy: evaluated I would say about four or
+Prasad Reddy: five databases
+Kotha Yashwanth: Okay.
+Prasad Reddy: and then I want you guys.
+Prasad Reddy: Okay your until you guys are done
+Prasad Reddy: with the connecting layer.
+Prasad Reddy: One, two, three,
+Prasad Reddy: We will not get
+Prasad Reddy: into the
+Prasad Reddy: I'm going to tell you something
+Prasad Reddy: listen just from one side in the
+Prasad Reddy: of go through the other side, but
+Prasad Reddy: you don't get into get
+Kotha Yashwanth: Okay.
+Prasad Reddy: Okay.
+Prasad Reddy: And but I'm going to give you some
+Prasad Reddy: progress as to what we have made.
+Kotha Yashwanth: Okay.
+Prasad Reddy: um
+Braden Curtis: Hey.
+Prasad Reddy: What are the concepts of databases
+Prasad Reddy: that you Nora?
+Prasad Reddy: Yashwanth?
+Kotha Yashwanth: Like tables private key foreign key.
+Prasad Reddy: Okay.
+Prasad Reddy: Tables columns right?
+Prasad Reddy: So these are the entities.
+Kotha Yashwanth: Okay.
+Prasad Reddy: what other features are there for the
+Prasad Reddy: columns private key feature foreign
+Prasad Reddy: key feature anything
+Kotha Yashwanth: features
+Kotha Yashwanth: Okay.
+Prasad Reddy: And the type of the type of the field
+Prasad Reddy: column.
+Kotha Yashwanth: Type of the data.
+Kotha Yashwanth: Yes.
+Prasad Reddy: Right, whether it is a date field or
+Prasad Reddy: a text field or number field,
+Prasad Reddy: whatever things like that right.
+Kotha Yashwanth: Correct.
+Prasad Reddy: So this basically
+Prasad Reddy: you can have multiple columns also
+Prasad Reddy: have indexed equally increase the
+Prasad Reddy: computation time.
+Prasad Reddy: every time that
+Prasad Reddy: record if you have
+Prasad Reddy: It will
+Prasad Reddy: run it.
+Prasad Reddy: Okay.
+Prasad Reddy: and then
+Prasad Reddy: but by even though at the time of
+Prasad Reddy: right you are putting effort down
+Prasad Reddy: right down the time if you're if
+Prasad Reddy: are doing some kind of a complication
+Prasad Reddy: it saves you time.
+Prasad Reddy: That is a benefit of having an index.
+Prasad Reddy: Next step now you have the
+Prasad Reddy: 
+Prasad Reddy: 

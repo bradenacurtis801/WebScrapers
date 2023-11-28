@@ -1,0 +1,105 @@
+e a nurse or
+Prasad Reddy: a doctor.
+Prasad Reddy: That is a whole idea.
+Prasad Reddy: that that is why
+Prasad Reddy: as a provider or a doctor, but you
+Prasad Reddy: can
+Prasad Reddy: time being.
+Prasad Reddy: Now I have a
+Prasad Reddy: It Provider by name John Smith.
+Prasad Reddy: I
+Prasad Reddy: percentage
+Prasad Reddy: I want to see the
+Prasad Reddy: on the decade.
+Prasad Reddy: their age group
+Prasad Reddy: If their age is 1 to 10, how many are
+Prasad Reddy: there 10 to 20?
+Prasad Reddy: How many are there?
+Prasad Reddy: 2230 how many are there?
+Prasad Reddy: Is a staff ID
+Prasad Reddy: are the directly connected
+Prasad Reddy: Do you see any line between
+Prasad Reddy: I have table which
+Prasad Reddy: 
+Prasad Reddy: Do you see a connection?
+Braden Curtis: no, they're all they're all kind of
+Braden Curtis: like second or third low connections
+Braden Curtis: or whatever.
+Prasad Reddy: Right.
+Prasad Reddy: So what do you see what this is a
+Prasad Reddy: common place where they are
+Prasad Reddy: connected.
+Braden Curtis: Wherever they referenced the patient
+Braden Curtis: ID to form or through foreign key.
+Prasad Reddy: That is correct.
+Prasad Reddy: Just tell me what that is.
+Prasad Reddy: I'm talking about the two tables here
+Prasad Reddy: because
+Braden Curtis: to records
+Prasad Reddy: that's correct patient records.
+Prasad Reddy: So my question is
+Prasad Reddy: Dr. Braden Curtis whether he is
+Prasad Reddy: seeing younger patients
+Prasad Reddy: patients is my question.
+Prasad Reddy: And for that I basically
+Prasad Reddy: question.
+Prasad Reddy: Are his patients mostly?
+Prasad Reddy: decade how many patients
+Prasad Reddy: So
+Prasad Reddy: how
+Prasad Reddy: 
+Prasad Reddy: Is it
+Braden Curtis: Yeah.
+Prasad Reddy: Is it?
+Sai Rakesh Kumar Reddy: Sorry.
+Prasad Reddy: Is it in patient records table or the
+Prasad Reddy: patient's table?
+Braden Curtis: Oh patient table.
+Braden Curtis: Sorry.
+Prasad Reddy: Because it is in the patient stable
+Prasad Reddy: when you register the patient.
+Prasad Reddy: It is not there all the time in the
+Prasad Reddy: patient records in every time right
+Prasad Reddy: you only refer to the patient record
+Prasad Reddy: a patient ID, but you don't
+Prasad Reddy: their first name or last name
+Prasad Reddy: number email?
+Prasad Reddy: And then and then height weight
+Prasad Reddy: date of birth all the time in the
+Prasad Reddy: patient records.
+Prasad Reddy: Am I correct?
+Braden Curtis: Yeah.
+Prasad Reddy: This is what is called a
+Prasad Reddy: normalization.
+Prasad Reddy: in the patient records
+Prasad Reddy: if you have to
+Prasad Reddy: the information
+Prasad Reddy: again, that is
+Prasad Reddy: Anything that is coming again and
+Prasad Reddy: again
+Prasad Reddy: that into
+Prasad Reddy: by doing
+Prasad Reddy: by doing
+Prasad Reddy: You're going to
+Prasad Reddy: That is one aspect,
+Prasad Reddy: you're going to say the
+Prasad Reddy: Second you have
+Prasad Reddy: integrity.
+Prasad Reddy: what I mean by data increasing
+Prasad Reddy: Integrity
+Prasad Reddy: suppose if you start
+Prasad Reddy: patient
+Prasad Reddy: patient that there is a
+Prasad Reddy: that is a you know, like
+Prasad Reddy: boy.
+Prasad Reddy: a 15 year old
+Prasad Reddy: patient by name
+Prasad Reddy: John Smith
+Prasad Reddy: what happened?
+Prasad Reddy: Yashwanth left?
+Braden Curtis: call
+Braden Curtis: I don't know you didn't answer.
+Prasad Reddy: It's ringing right so you just
+Prasad Reddy: dropped out or something.
+Braden Curtis: There we go.
+Prasad Reddy: A

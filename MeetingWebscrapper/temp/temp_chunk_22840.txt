@@ -1,0 +1,102 @@
+key to connect
+Prasad Reddy: Parent relationship,
+Prasad Reddy: now
+Prasad Reddy: have you guys?
+Prasad Reddy: Did it sink into your mind?
+Prasad Reddy: normalization and
+Prasad Reddy: This is a database concept A lot of
+Prasad Reddy: people get
+Kotha Yashwanth: I know you explained it to me one
+Kotha Yashwanth: time but I
+Braden Curtis: Let me talk about like um wait.
+Kotha Yashwanth: cannot
+Braden Curtis: normalized numbers and what contacts
+Braden Curtis: are you talking about this?
+Prasad Reddy: database normalization and
+Prasad Reddy: denormalization
+Braden Curtis: Oh, no, I know.
+Prasad Reddy: when you are trying to do a report.
+Prasad Reddy: Okay.
+Prasad Reddy: What do you what are the
+Prasad Reddy: generating
+Kotha Yashwanth: like collecting
+Kotha Yashwanth: it.
+Prasad Reddy: No when you're running a report.
+Prasad Reddy: on a SQL database
+Prasad Reddy: How do you do that?
+Braden Curtis: I'm not sure.
+Prasad Reddy: British can you open one database
+Prasad Reddy: table?
+Prasad Reddy: from database schema
+Prasad Reddy: answers just create any
+Prasad Reddy: schema.
+Sai Rakesh Kumar Reddy: And today should I open or?
+Prasad Reddy: Anything you need not our table?
+Prasad Reddy: Just database database answers.com
+Prasad Reddy: close this one.
+Prasad Reddy: We don't
+Prasad Reddy: Close this is going to create
+Prasad Reddy: confusion.
+Prasad Reddy: Okay, expand it nicely
+Prasad Reddy: No, just bring some patient related
+Prasad Reddy: database.
+Prasad Reddy: Okay, so
+Prasad Reddy: Here the okay.
+Prasad Reddy: patient ID
+Prasad Reddy: Is becoming in
+Prasad Reddy: okay?
+Sai Rakesh Kumar Reddy: today
+Prasad Reddy: In the patient
+Prasad Reddy: nothing but a patient notes, okay.
+Prasad Reddy: What are the components that
+Prasad Reddy: taking?
+Prasad Reddy: patient
+Prasad Reddy: visit
+Prasad Reddy: imagine okay patient Notes One
+Prasad Reddy: way in that
+Prasad Reddy: visit one is the
+Prasad Reddy: followed by patient
+Prasad Reddy: When you are putting the patient
+Prasad Reddy: okay second.
+Prasad Reddy: Now it is referring
+Prasad Reddy: referring to the patient table right
+Prasad Reddy: on the top primary key.
+Prasad Reddy: Yeah.
+Prasad Reddy: Are you able
+Prasad Reddy: Here.
+Braden Curtis: Okay.
+Prasad Reddy: distracted.
+Prasad Reddy: You can just stop and then just for
+Prasad Reddy: normalization denormalization is a
+Prasad Reddy: kind of scary topic for a lot of
+Prasad Reddy: people don't understand.
+Prasad Reddy: And this is a con.
+Prasad Reddy: You know, this is
+Prasad Reddy: concept that you should be
+Prasad Reddy: to.
+Prasad Reddy: why
+Prasad Reddy: you're not doing
+Prasad Reddy: It's important to understand the
+Prasad Reddy: concept.
+Prasad Reddy: Here I'm talking about the patient
+Prasad Reddy: records and then can you
+Prasad Reddy: second column in the patient records?
+Braden Curtis: Oh patient ID.
+Braden Curtis: That's a foreign key.
+Prasad Reddy: Okay, so primary key is sitting
+Prasad Reddy: where?
+Braden Curtis: All right as a patient record ID.
+Braden Curtis: Oh, yeah.
+Prasad Reddy: Patients database right in patients.
+Prasad Reddy: Imagine.
+Prasad Reddy: What are the other columns in the
+Prasad Reddy: patients?
+Braden Curtis: I'm just one.
+Sai Rakesh Kumar Reddy: are
+Prasad Reddy: else would be there?
+Prasad Reddy: They did not write it but is it that
+Prasad Reddy: is only thing?
+Braden Curtis: I guess that yeah.
+Prasad Reddy: this is more like a patient in our
+Prasad Reddy: case is a
+Prasad Reddy: Registration this is database

@@ -1,0 +1,100 @@
+ct, correct.
+Kotha Yashwanth: correct.
+Prasad Reddy: Okay, so now we've learned.
+Prasad Reddy: 
+Prasad Reddy: Tables and the columns and within the
+Prasad Reddy: tables we learn primary key foreign
+Prasad Reddy: key and indexing
+Prasad Reddy: types of the fields and
+Prasad Reddy: also something called a null
+Prasad Reddy: now.
+Prasad Reddy: So now we talked about the tables and
+Prasad Reddy: then we talked about
+Prasad Reddy: relationships.
+Prasad Reddy: we talked about
+Prasad Reddy: and triggers.
+Prasad Reddy: and we briefly
+Prasad Reddy: normalization and
+Prasad Reddy: You need to
+Prasad Reddy: normalization
+Prasad Reddy: Don't break your head too much.
+Prasad Reddy: In the normalization
+Prasad Reddy: like no first order
+Prasad Reddy: First, you know like a second order
+Prasad Reddy: normalize normalization third order
+Prasad Reddy: normalization.
+Prasad Reddy: If you don't even understand if it
+Prasad Reddy: doesn't even
+Prasad Reddy: normalization, don't break your
+Prasad Reddy: about too much.
+Prasad Reddy: You just need to know.
+Prasad Reddy: What is
+Prasad Reddy: is going to be repeated instead of
+Prasad Reddy: using
+Prasad Reddy: You create in a
+Prasad Reddy: that you don't have to repeat
+Prasad Reddy: again.
+Prasad Reddy: The benefits are saving
+Prasad Reddy: preventing the errors.
+Prasad Reddy: That is a normalization.
+Prasad Reddy: What is deal normalization?
+Prasad Reddy: normalization saves all of
+Prasad Reddy: benefits, but when you are doing the
+Prasad Reddy: analysis, it is a problem.
+Prasad Reddy: first you need to denormalize
+Prasad Reddy: you're going to create a flat
+Prasad Reddy: so
+Prasad Reddy: are
+Prasad Reddy: Step one you are going to denormalize
+Prasad Reddy: my creative
+Prasad Reddy: create the flat table you are going
+Prasad Reddy: to do the
+Prasad Reddy: that stuff.
+Prasad Reddy: Are we good on this?
+Braden Curtis: Yeah.
+Prasad Reddy: Okay guys, so tomorrow.
+Prasad Reddy: What is our goal?
+Braden Curtis: So for me Yash, you want to create?
+Braden Curtis: Or create
+Braden Curtis: for a PG admin
+Braden Curtis: postpressant.
+Braden Curtis: Is that correct?
+Prasad Reddy: Correct.
+Prasad Reddy: So postgres is something that you
+Prasad Reddy: guys have to work on.
+Prasad Reddy: Followed by you need to work on the
+Prasad Reddy: application container like, you know,
+Prasad Reddy: like a layer two
+Kotha Yashwanth: So do you want us to work directly on
+Kotha Yashwanth: Rancher Burberry?
+Prasad Reddy: Yes.
+Kotha Yashwanth: Braden do you have Rancher
+Kotha Yashwanth: credentials?
+Braden Curtis: Um, yes do
+Kotha Yashwanth: Okay.
+Prasad Reddy: All of you have credentials.
+Prasad Reddy: app dot the data.com
+Kotha Yashwanth: Okay, okay.
+Prasad Reddy: and when it comes to
+Prasad Reddy: guacamole guacamole Dot
+Prasad Reddy: doinstress.com
+Braden Curtis: Okay, so so you want to stick so we
+Braden Curtis: first we download the image and then
+Braden Curtis: we create the database.
+Braden Curtis: What what's the name of the database
+Braden Curtis: you want
+Braden Curtis: call it
+Braden Curtis: Okay.
+Prasad Reddy: Because just be you know, like
+Prasad Reddy: everybody should be using the same
+Prasad Reddy: and there is in my opinion.
+Prasad Reddy: Instead of again.
+Prasad Reddy: We're not having a
+Prasad Reddy: Control and all that stuff, but I
+Prasad Reddy: would recommend
+Prasad Reddy: specializing.
+Prasad Reddy: rather than
+Prasad Reddy: by
+Prasad Reddy: Like for example,
+Prasad Reddy: to do the backend, right?
+Kotha Yashwanth

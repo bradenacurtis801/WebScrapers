@@ -1,0 +1,102 @@
+.
+Prasad Reddy: Whatever is the final result that
+Prasad Reddy: you're asking.
+Prasad Reddy: it will do for
+Prasad Reddy: record
+Prasad Reddy: two step one is joining those two
+Prasad Reddy: the three tables staff table
+Prasad Reddy: table and patient records table.
+Prasad Reddy: for every record
+Prasad Reddy: and then
+Prasad Reddy: is male or female.
+Prasad Reddy: It will count.
+Prasad Reddy: And then it will go to the second row
+Prasad Reddy: and then
+Prasad Reddy: step
+Prasad Reddy: like no like a counting.
+Prasad Reddy: joining and Counting joining and
+Prasad Reddy: counting.
+Prasad Reddy: It will do the two steps.
+Prasad Reddy: It is a very inefficient way.
+Prasad Reddy: It is okay for
+Prasad Reddy: you have a half a million records
+Prasad Reddy: records you want to do a joint first
+Prasad Reddy: all of them table one, two, three you
+Prasad Reddy: join them.
+Prasad Reddy: And then once the whole process done
+Prasad Reddy: then now you go
+Prasad Reddy: join the
+Prasad Reddy: table now.
+Prasad Reddy: I'm going to run
+Prasad Reddy: temporary table.
+Prasad Reddy: That is a
+Prasad Reddy: Okay, so you guys
+Prasad Reddy: normalization and denormalization?
+Prasad Reddy: do you know
+Prasad Reddy: triggers?
+Braden Curtis: yeah, short story petite procedures
+Braden Curtis: is kind of like creating a
+Prasad Reddy: a script scripture
+Braden Curtis: it's on PGA admin side.
+Braden Curtis: Yeah.
+Prasad Reddy: Yep.
+Prasad Reddy: Yep.
+Prasad Reddy: So basically some kind of a script
+Prasad Reddy: that you're going to save in the
+Prasad Reddy: database itself.
+Prasad Reddy: So you do it in the database itself,
+Prasad Reddy: right?
+Prasad Reddy: What about what about triggers?
+Braden Curtis: Correct.
+Braden Curtis: I don't know about triggers.
+Prasad Reddy: Yashwanth, what is a trigger in a
+Prasad Reddy: database?
+Kotha Yashwanth: I don't remember Papa.
+Prasad Reddy: What is the trigger?
+Sai Rakesh Kumar Reddy: volume
+Prasad Reddy: Okay trigger as the same name says it
+Prasad Reddy: Retreat it gets triggered.
+Prasad Reddy: So
+Prasad Reddy: for example anything that happens
+Prasad Reddy: you can
+Prasad Reddy: triggers what it means is
+Prasad Reddy: 
+Prasad Reddy: anybody.
+Prasad Reddy: to delete user for example,
+Prasad Reddy: very important deleting a patient is
+Prasad Reddy: different from deleting users, right?
+Prasad Reddy: So
+Prasad Reddy: Anytime somebody deletes.
+Prasad Reddy: you basically trigger that means
+Prasad Reddy: are going to run a script at that
+Prasad Reddy: time
+Prasad Reddy: And what do you do?
+Prasad Reddy: You're going to create.
+Prasad Reddy: Hey, so and so person
+Prasad Reddy: So and then
+Prasad Reddy: an audit Trail and
+Prasad Reddy: notify for other people.
+Prasad Reddy: That is a trigger.
+Prasad Reddy: So a
+Prasad Reddy: anytime.
+Prasad Reddy: There is a deletion anytime.
+Prasad Reddy: There is a new new
+Prasad Reddy: added or any modification
+Prasad Reddy: So when you want an audit
+Prasad Reddy: Trail is nothing, but you're keeping
+Prasad Reddy: record of everything.
+Prasad Reddy: How are you keeping record
+Prasad Reddy: everything?
+Prasad Reddy: anytime there is a
+Prasad Reddy: recording it.
+Prasad Reddy: That's it.
+Prasad Reddy: So that is a trigger.
+Prasad Reddy: A trigger is nothing but when
+Prasad Reddy: something happens
+Prasad Reddy: is basically
+Prasad Reddy: including us
+Prasad Reddy: procedure.
+Prasad Reddy: yashwanthara
+Kotha Yashwanth: server
+Prasad Reddy: It's equal to your alerts around.
+Kotha Yashwanth: Corre

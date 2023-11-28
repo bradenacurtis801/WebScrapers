@@ -1,0 +1,99 @@
+rasad Reddy: You might end up having
+Prasad Reddy: like, you know, like 100 200
+Prasad Reddy: like no whole it will
+Braden Curtis: well that you have to create so you
+Braden Curtis: can just do like you say select
+Braden Curtis: gender from and then you join
+Braden Curtis: patients with records and then
+Braden Curtis: you have
+Braden Curtis: staff ID
+Braden Curtis: specified doctor you want to
+Braden Curtis: query for
+Prasad Reddy: But what happens is?
+Prasad Reddy: If it is only five ten patients, you
+Prasad Reddy: can do that way you you just select a
+Prasad Reddy: join this inner join an outer join is
+Prasad Reddy: all correct.
+Prasad Reddy: But what happens is if
+Prasad Reddy: If you have
+Prasad Reddy: criteria you want to first get
+Prasad Reddy: not 20,000 records and then you
+Prasad Reddy: to submit.
+Prasad Reddy: Then you
+Prasad Reddy: two-step process.
+Prasad Reddy: once you create
+Prasad Reddy: then whatever that you do the
+Prasad Reddy: summation function is equal to
+Prasad Reddy: it is equal to your
+Prasad Reddy: usage.
+Prasad Reddy: So this is called
+Prasad Reddy: And why people are doing Mongo.
+Prasad Reddy: because
+Prasad Reddy: somebody interestingly
+Prasad Reddy: You see the
+Prasad Reddy: the staff table,
+Prasad Reddy: And the transaction table is a
+Prasad Reddy: patient record table, right?
+Braden Curtis: Mm-hmm the homeless transactions.
+Braden Curtis: Oh, yeah.
+Prasad Reddy: So in Mongo, you can design it in
+Prasad Reddy: such a way where you'll have the
+Prasad Reddy: staff table as is you'll have the
+Prasad Reddy: patients table, but at the time of
+Prasad Reddy: the patient.
+Prasad Reddy: records you're going to
+Prasad Reddy: the fields of the staff and all of
+Prasad Reddy: the fields of the patients
+Prasad Reddy: make a really big table in the
+Prasad Reddy: patient records.
+Prasad Reddy: That is a flat table to
+Prasad Reddy: So it is somewhat a
+Prasad Reddy: Mongo design.
+Prasad Reddy: in a document
+Prasad Reddy: keep a minimal number
+Prasad Reddy: tried.
+Prasad Reddy: in the
+Prasad Reddy: You bring all of the patient feels.
+Prasad Reddy: and also all of the doctors feels
+Prasad Reddy: so
+Prasad Reddy: your
+Prasad Reddy: can
+Prasad Reddy: It may take a little bit more memory,
+Prasad Reddy: but
+Prasad Reddy: Anyway, so now you understand
+Prasad Reddy: basically.
+Prasad Reddy: not
+Prasad Reddy: without denormalization.
+Prasad Reddy: are dealing with only
+Prasad Reddy: records, which
+Prasad Reddy: the CPU can keep it
+Prasad Reddy: its a
+Braden Curtis: Oh, so it's okay.
+Braden Curtis: So just
+Prasad Reddy: When you are when you're having a
+Prasad Reddy: large set of data.
+Prasad Reddy: You have total patients touch patient
+Prasad Reddy: records are 10 million.
+Prasad Reddy: And you need to join them.
+Prasad Reddy: for a certain criteria, so
+Prasad Reddy: So first you do join and you create a
+Prasad Reddy: temporary table first so that you
+Prasad Reddy: only
+Prasad Reddy: you know, like
+Prasad Reddy: once
+Prasad Reddy: okay now I
+Prasad Reddy: kind of analysis on this
+Prasad Reddy: temporary view
+Braden Curtis: um
+Braden Curtis: I mean, I guess to understand doesn't
+Braden Curtis: doesn't like when you do that join
+Braden Curtis: like just on the
+Braden Curtis: admin,
+Braden Curtis: table or
+Prasad Reddy: No, it doesn't.
+Braden Curtis: information?
+Braden Curtis: Okay.
+Prasad Reddy: so when you don't create a view what
+Prasad Reddy: it does is
+Prasad Reddy: say for example.
+Prasad Reddy: It will go through each iteration

@@ -1,0 +1,111 @@
+erent
+Prasad Reddy: places.
+Prasad Reddy: Okay?
+Prasad Reddy: So I'm going to create what this
+Prasad Reddy: needs to be
+Prasad Reddy: poetry
+Prasad Reddy: python poetry
+Prasad Reddy: reset and
+Prasad Reddy: create a note.
+Prasad Reddy: on installation
+Prasad Reddy: best practices
+Prasad Reddy: we use it.
+Prasad Reddy: So now
+Prasad Reddy: onto.
+Prasad Reddy: Braden and
+Prasad Reddy: Are we good?
+Braden Curtis: Yeah.
+Prasad Reddy: So this is the task number every time
+Prasad Reddy: that I create a it's just creating a
+Prasad Reddy: task number.
+Prasad Reddy: That is correct.
+Prasad Reddy: So
+Prasad Reddy: It used to be.
+Yashwanth Kotha: Sorry.
+Prasad Reddy: put cm is Care Medical EMR.
+Prasad Reddy: Is EMR.
+Braden Curtis: So for the notes, do you want to just
+Braden Curtis: to keep using Google Docs or is there
+Braden Curtis: a section where we can add our notes
+Braden Curtis: in?
+Prasad Reddy: Okay, so that's what I'm trying to
+Prasad Reddy: tell you.
+Prasad Reddy: I just put Confluence.
+Prasad Reddy: Okay, so I put it here.
+Braden Curtis: confluence
+Prasad Reddy: in confluence
+Prasad Reddy: and where the hell is that?
+Braden Curtis: Oh, I see.
+Prasad Reddy: Is it a knowledge base?
+Prasad Reddy: I did just
+Prasad Reddy: Just now I
+Prasad Reddy: to that.
+Prasad Reddy: you know use it in my
+Prasad Reddy: no.
+Prasad Reddy: Yeah.
+Prasad Reddy: Oh.
+Prasad Reddy: then
+Prasad Reddy: where should I put
+Prasad Reddy: okay, put this
+Braden Curtis: Um, and these are like a team space
+Braden Curtis: you have to create
+Prasad Reddy: yeah, the once again, you don't
+Prasad Reddy: create more team spaces already.
+Prasad Reddy: They have created hell lot of
+Prasad Reddy: hierarchies too.
+Prasad Reddy: Many hierarchies is just kind of very
+Prasad Reddy: confusing.
+Braden Curtis: Yeah.
+Prasad Reddy: So there is a space here.
+Prasad Reddy: And you all spaces.
+Prasad Reddy: The third okay software developed
+Prasad Reddy: that way the hell is this thing here?
+Prasad Reddy: So you have your own space already?
+Prasad Reddy: So everybody has
+Prasad Reddy: one space of
+Prasad Reddy: so
+Braden Curtis: Okay.
+Prasad Reddy: Okay, as soon as you come in, okay,
+Prasad Reddy: you're getting that.
+Prasad Reddy: Okay.
+Prasad Reddy: So now what I'm going to do is this
+Prasad Reddy: knowledge base.
+Prasad Reddy: I have
+Prasad Reddy: Wow.
+Prasad Reddy: all content
+Prasad Reddy: Yeah.
+Prasad Reddy: anyway, so
+Prasad Reddy: the basic document,
+Braden Curtis: in knowledge base
+Prasad Reddy: Correct.
+Braden Curtis: Oh, I see.
+Braden Curtis: Okay.
+Braden Curtis: And then do I just add
+Braden Curtis: to it or
+Braden Curtis: I see.
+Prasad Reddy: You know Bowl italics and then
+Prasad Reddy: underline scribe to subscript
+Prasad Reddy: superscript.
+Prasad Reddy: That's all.
+Prasad Reddy: Okay, and then
+Prasad Reddy: you know these things sent alignments
+Prasad Reddy: and then the color of the text
+Prasad Reddy: then whether it's a bullet points or
+Prasad Reddy: numbers.
+Prasad Reddy: indent
+Prasad Reddy: decrease indent
+Prasad Reddy: and this is action
+Prasad Reddy: important than
+Prasad Reddy: Is you go through
+Prasad Reddy: snippet.
+Prasad Reddy: You see this
+Braden Curtis: Um code snippet.
+Braden Curtis: Oh, how'd you do that?
+Prasad Reddy: Okay, don't type anything.
+Prasad Reddy: Give me one second.
+Prasad Reddy: Okay, so here course snippet.
+Braden Curtis: Oh.
+Prasad Reddy: Hello.
+Prasad Reddy: world
+Braden Curtis: Like that, does it have a syntax
+Braden Curtis: highlighting or 

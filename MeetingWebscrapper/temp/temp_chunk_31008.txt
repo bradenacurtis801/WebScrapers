@@ -1,0 +1,95 @@
+ reminder what happened to her?
+Kotha Yashwanth: Bob I just got a call
+Prasad Reddy: I see.
+Prasad Reddy: Okay, so
+Prasad Reddy: we're talking about the normalization
+Prasad Reddy: drive.
+Prasad Reddy: suppose in the patient record, we
+Prasad Reddy: We could write the first name last
+Prasad Reddy: name.
+Prasad Reddy: date of birth of the patient is
+Prasad Reddy: of the patient all the time in the
+Prasad Reddy: patient record if we do that
+Prasad Reddy: If we do that the patient record will
+Prasad Reddy: have additional
+Prasad Reddy: and columns.
+Kotha Yashwanth: Correct.
+Prasad Reddy: and that means your bloating the
+Prasad Reddy: patient records suppose that patient
+Prasad Reddy: has
+Prasad Reddy: hundred visits monthly one visit.
+Prasad Reddy: So every time there is a
+Prasad Reddy: are entering all of this information
+Prasad Reddy: again and again,
+Prasad Reddy: Where
+Prasad Reddy: that information to
+Prasad Reddy: patient table.
+Prasad Reddy: What happened?
+Kotha Yashwanth: Make sense forever.
+Prasad Reddy: right by doing so
+Kotha Yashwanth: Mm-hmm.
+Prasad Reddy: you say there are two benefits one is
+Prasad Reddy: making the patient record stable
+Prasad Reddy: smaller.
+Prasad Reddy: This is called normalization.
+Prasad Reddy: The other thing is
+Prasad Reddy: entering this information
+Prasad Reddy: For the same
+Prasad Reddy: there a possibility that you might
+Prasad Reddy: enter
+Prasad Reddy: his age being 15 and other time
+Prasad Reddy: might enter by mistake as his
+Prasad Reddy: right?
+Prasad Reddy: You can you can you can have
+Prasad Reddy: Integrity problem, right?
+Kotha Yashwanth: Correct.
+Prasad Reddy: Then you don't know whether it is the
+Prasad Reddy: same John Smith or another John
+Prasad Reddy: Smith.
+Kotha Yashwanth: Yes, same name different date of
+Kotha Yashwanth: birth.
+Kotha Yashwanth: Yeah.
+Prasad Reddy: So this data?
+Prasad Reddy: Different data worth are you know
+Prasad Reddy: like you put the same data button you
+Prasad Reddy: calculate the age if you're manual
+Prasad Reddy: entering one time you calculate.
+Prasad Reddy: And sometimes you don't care what and
+Prasad Reddy: you put wrong number.
+Prasad Reddy: So you are introducing
+Prasad Reddy: right?
+Kotha Yashwanth: Correct.
+Kotha Yashwanth: Okay.
+Prasad Reddy: Saving the space and saving the data
+Prasad Reddy: integrity.
+Prasad Reddy: So for example imagine you are
+Prasad Reddy: entering a social security number for
+Prasad Reddy: the patient.
+Prasad Reddy: in the patient records every time
+Kotha Yashwanth: Mm-hmm.
+Prasad Reddy: then you'll end up over a period of
+Prasad Reddy: five years.
+Prasad Reddy: You'll end up having, you know, like
+Prasad Reddy: a three four different Social
+Prasad Reddy: Security numbers.
+Kotha Yashwanth: Correct.
+Kotha Yashwanth: And correct.
+Kotha Yashwanth: Mm-hmm.
+Prasad Reddy: So that is why to avoid redundancy as
+Prasad Reddy: well as to maintain the data quality
+Prasad Reddy: you do the normalization.
+Kotha Yashwanth: Okay.
+Prasad Reddy: And whenever you are when we are
+Prasad Reddy: talking about the question.
+Prasad Reddy: Daughter Braden Curtis.
+Prasad Reddy: We want to know what is
+Prasad Reddy: of his patients?
+Prasad Reddy: So,
+Prasad Reddy: the doctor is in the staff category
+Prasad Reddy: table?
+Braden Curtis: Um, so I guess um, you do it by you
+Braden Curtis: select the patience patience table
+Braden Curtis: because you want to get their age and
+Braden Curtis: then and they connect it with that
+Braden Curtis: foreign key
+Pr

@@ -2,13 +2,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, NoSuchWindowException, WebDriverException, TimeoutException
+from selenium.common.exceptions import NoSuchElementException, NoSuchWindowException, WebDriverException, TimeoutException, StaleElementReferenceException
 from selenium import webdriver
 from services.summarizeText import chunkAndSummarize
 import time
 from time import sleep
 import os
 import sys
+import traceback
 import datetime
 from common.utils import *
 from common.js_injection_strings import *
@@ -16,13 +17,16 @@ from common.constants import *
 from Drivers.getDriver import get_chromedriver_url, download_chromedriver
 from exceptions.scraper_exceptions import FailedInitializationError, NavigationError, LoginFieldNotFoundError, LoginActionError
 
+
 class GoogleMeetScraper:
 
     def __init__(self, email, password):
         self.chromedriver_url = get_chromedriver_url(CHROME_DRIVER_URLS)
-        self.exePath = download_chromedriver(self.chromedriver_url) # This will download and extract the chromedriver binary
+        # This will download and extract the chromedriver binary
+        self.exePath = download_chromedriver(self.chromedriver_url)
         self.chrome_options = webdriver.ChromeOptions()
-        self.chrome_options.add_argument("--mute-audio") # Mute audio for the entire browser session
+        # Mute audio for the entire browser session
+        self.chrome_options.add_argument("--mute-audio")
         # self.chrome_options.add_argument("--headless")
         self.chrome_options.add_argument("--window-size=1920,1080")
         self.driver = None
@@ -141,7 +145,8 @@ class GoogleMeetScraper:
                 break
             except TimeoutException:
                 # If the button wasn't found or wasn't clickable, continue to the next
-                print(f"Timeout when waiting for button with XPath: {button_xpath}")
+                print(
+                    f"Timeout when waiting for button with XPath: {button_xpath}")
                 continue
         else:
             # If none of the buttons worked, raise an exception or handle the error
@@ -158,6 +163,8 @@ class GoogleMeetScraper:
                 time.sleep(2)  # Consider a more dynamic wait condition
         except Exception as e:
             print(f"Error during transcription: {e}")
+            traceback.print_exc()
+            pass
         finally:
             sessionEnd_write(filepath)
 
@@ -168,6 +175,10 @@ class GoogleMeetScraper:
             return False
         except NoSuchElementException:
             return True
+        except Exception as e:
+            print(f"Error during transcription: {e}")
+            traceback.print_exc()
+            pass
 
     def inject_caption_ids(self):
         # Assuming you already have self.last_captured_id defined
@@ -239,6 +250,12 @@ class GoogleMeetScraper:
                         filepath, speaker_name, caption.text)
                     self.last_captured_id = current_id
         except NoSuchElementException:
+            pass
+        except StaleElementReferenceException:
+            pass
+        except Exception:
+            print("unexpected error")
+            traceback.print_exc()
             pass
 
     def get_current_participants(self):

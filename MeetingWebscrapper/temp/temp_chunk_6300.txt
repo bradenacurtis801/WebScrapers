@@ -1,0 +1,113 @@
+: testing as to how how the software
+Prasad Reddy: works.
+Prasad Reddy: That's all.
+Prasad Reddy: It's an interesting part
+Prasad Reddy: Okay,
+Prasad Reddy: Okay.
+Prasad Reddy: Coming to networking.
+Prasad Reddy: Hey Braden.
+Prasad Reddy: Did you get any response from
+Prasad Reddy: yashwant?
+Braden Curtis: Yeah, he said he would he won't be
+Braden Curtis: able to make it tonight.
+Prasad Reddy: Okay fair enough.
+Prasad Reddy: So on the
+Prasad Reddy: the networking there's a
+Prasad Reddy: computers when they talk to each
+Prasad Reddy: other
+Prasad Reddy: they need to have a name and a
+Prasad Reddy: some kind of a mechanism.
+Prasad Reddy: Just like the I'm talking here
+Prasad Reddy: or Sai Rakesh.
+Prasad Reddy: So these network interface
+Prasad Reddy: a number?
+Prasad Reddy: or an ID
+Prasad Reddy: that is called a matte ID.
+Prasad Reddy: Mac ID is
+Prasad Reddy: Once it is
+Prasad Reddy: changed.
+Prasad Reddy: Mac ID
+Prasad Reddy: six
+Prasad Reddy: One byte is 8 Bits.
+Prasad Reddy: So it's a
+Prasad Reddy: It's basically
+Prasad Reddy: the power of
+Prasad Reddy: That means there are.
+Prasad Reddy: combinations in a
+Prasad Reddy: Mac addresses are
+Prasad Reddy: of data.
+Prasad Reddy: out of those six bytes
+Prasad Reddy: the first to three bytes
+Prasad Reddy: company
+Prasad Reddy: meaning the
+Prasad Reddy: is manufacturing
+Prasad Reddy: interface card make
+Prasad Reddy: It could be Dell it could be
+Prasad Reddy: It could be your background.
+Prasad Reddy: It could be compact computer
+Prasad Reddy: could be Cisco switch because
+Prasad Reddy: switches have
+Prasad Reddy: mix
+Prasad Reddy: computers have Nicks
+Prasad Reddy: similarly
+Prasad Reddy: wireless devices
+Prasad Reddy: because they have to
+Prasad Reddy: other.
+Prasad Reddy: and the cell
+Prasad Reddy: SIM cards.
+Prasad Reddy: so
+Prasad Reddy: others will have a Mac ID.
+Prasad Reddy: And that is
+Prasad Reddy: data.
+Prasad Reddy: the first three bytes
+Prasad Reddy: is going to be
+Prasad Reddy: manufacturer's ID
+Prasad Reddy: and that is maintained by
+Prasad Reddy: iteratively.
+Prasad Reddy: some
+Prasad Reddy: issue.
+Prasad Reddy: Who can use
+Prasad Reddy: first
+Prasad Reddy: manufacture, you know that's called I
+Prasad Reddy: think organization ideas
+Prasad Reddy: something.
+Prasad Reddy: The remaining
+Prasad Reddy: device ID
+Prasad Reddy: so this is when
+Prasad Reddy: manufacturing it is permanently
+Prasad Reddy: burned it's etched.
+Prasad Reddy: it is permanently burned into
+Prasad Reddy: Network interface card, you cannot
+Prasad Reddy: change it.
+Prasad Reddy: the computers
+Prasad Reddy: Can I talk to each other
+Prasad Reddy: math IDs?
+Prasad Reddy: now
+Prasad Reddy: What about the eyepiece?
+Prasad Reddy: IP addresses
+Prasad Reddy: the IP addresses
+Prasad Reddy: or built
+Prasad Reddy: these are temporary numbers.
+Prasad Reddy: These are built on
+Prasad Reddy: They are associated with
+Prasad Reddy: IP
+Prasad Reddy: are represented by
+Prasad Reddy: each byte we talked about
+Prasad Reddy: these 256 combinations
+Prasad Reddy: 256.
+Prasad Reddy: If it is 2 bytes of data.
+Prasad Reddy: You will have
+Prasad Reddy: because it is
+Prasad Reddy: If you have
+Prasad Reddy: That would be 16 million.
+Prasad Reddy: If you have 4 bytes
+Prasad Reddy: That would be
+Prasad Reddy: So
+Prasad Reddy: or basically conscious, you
+Prasad Reddy: arranged.
+Prasad Reddy: The total number are 4 bytes.
+Prasad Reddy: That means the total is about
+Prasad Reddy: billion.
+Prasad Reddy: So
+Prasad Reddy: computers
+Prasad Reddy: 

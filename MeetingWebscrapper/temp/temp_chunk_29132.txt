@@ -1,0 +1,102 @@
+eddy: It will go and see if
+Prasad Reddy: new change in security
+Prasad Reddy: something.
+Prasad Reddy: And it will go on download them.
+Prasad Reddy: Update them.
+Prasad Reddy: That's it.
+Prasad Reddy: So you can
+Prasad Reddy: updating them and there's
+Prasad Reddy: for upgrade.
+Prasad Reddy: So we need to
+Prasad Reddy: about the Linux
+Prasad Reddy: Make sure everybody is done
+Prasad Reddy: you guys need to finish the
+Prasad Reddy: biosystem
+Prasad Reddy: we had asked some questions on a file
+Prasad Reddy: system then
+Prasad Reddy: Then we need to go through one or two
+Prasad Reddy: bash scripting examples.
+Prasad Reddy: That would
+Prasad Reddy: us the Linux.
+Prasad Reddy: now
+Prasad Reddy: Package while we are doing this
+Prasad Reddy: thing.
+Prasad Reddy: I would suggest you take the email
+Prasad Reddy: for everybody and start sharing this
+Prasad Reddy: document.
+Sai Rakesh Kumar Reddy: initiated
+Sai Rakesh Kumar Reddy: yeah.
+Prasad Reddy: Okay good.
+Prasad Reddy: And also you did the Excel list of
+Prasad Reddy: things also.
+Sai Rakesh Kumar Reddy: actually
+Sai Rakesh Kumar Reddy: Yeah.
+Prasad Reddy: topics, okay.
+Sai Rakesh Kumar Reddy: hmm
+Prasad Reddy: right now now
+Prasad Reddy: networking basic Circle.
+Prasad Reddy: Let me go through see how long it's
+Prasad Reddy: going to take.
+Prasad Reddy: Give me a second per meter review.
+Prasad Reddy: Okay networking will take
+Prasad Reddy: tomorrow so
+Prasad Reddy: 
+Prasad Reddy: Which of you guys
+Prasad Reddy: class
+Prasad Reddy: school?
+Prasad Reddy: Who finished it and who did not
+Prasad Reddy: you can just send a text message?
+Prasad Reddy: Okay,
+Prasad Reddy: Have you done any networking class?
+Prasad Reddy: Well, you have gone through
+Prasad Reddy: and Sai Rakesh.
+Prasad Reddy: Kumar have you
+Prasad Reddy: class?
+Prasad Reddy: What?
+Saikumar Bandarupalli: no, sir.
+Prasad Reddy: Is is networking not part of the
+Prasad Reddy: topic in electrical?
+Saikumar Bandarupalli: I normally little bit sir.
+Prasad Reddy: Okay, so you have the class but you
+Prasad Reddy: don't remember.
+Prasad Reddy: Okay, that's fine.
+Prasad Reddy: What about you Gokul and sidharthan
+Prasad Reddy: you guys are coming from the
+Prasad Reddy: chemistry chemical and bio
+Prasad Reddy: background.
+Gokul Tharun: He knows I don't have any knowledge
+Gokul Tharun: on that.
+Prasad Reddy: Okay.
+Prasad Reddy: What about you sidharthan?
+Sidharthan S C be21b039: Um, yeah, I don't think so.
+Sidharthan S C be21b039: Like they're different networks,
+Sidharthan S C be21b039: Maybe.
+Prasad Reddy: Okay, okay.
+Prasad Reddy: Parthai, I know that you should be
+Prasad Reddy: having some knowledge if you are
+Prasad Reddy: building things port
+Prasad Reddy: port forwarding and all that stuff.
+Prasad Reddy: Am I right part?
+Parth Bhardwaj: Actually, I don't have much knowledge
+Parth Bhardwaj: in the networking.
+Prasad Reddy: Okay.
+Prasad Reddy: Okay fair enough.
+Prasad Reddy: mmm
+Prasad Reddy: Okay, so I won't bother everybody.
+Prasad Reddy: madhav, and
+Prasad Reddy: and
+Prasad Reddy: your information.
+Prasad Reddy: This call is
+Prasad Reddy: 
+Prasad Reddy: He developed an application
+Prasad Reddy: records everything using a
+Prasad Reddy: and after that
+Prasad Reddy: it basically after it records
+Prasad Reddy: It just goes through one more.
+Prasad Reddy: time
+Prasad Reddy: through
+Prasad Reddy: summarizes.
+Prasad Reddy: It is not 100% perfect,
+Prasad Reddy: You know like it's been playing
+Prasad Reddy: around and then you know,
+Prasad Reddy

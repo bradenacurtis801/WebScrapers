@@ -191,11 +191,14 @@ def remove_from_path(folder_path):
 
 def log_participant_updates(filepath, participants, action):
     for participant in participants:
-        log_participant_event(filepath, participant, action)
+        _log_participant_event(filepath, participant, action)
 
 
-def log_participant_event(filepath, participant, event):
-    """Log the event of a participant joining or leaving."""
+def _log_participant_event(filepath, participant, event):
+    """
+    Helper Funciton
+    Log the event of a participant joining or leaving.
+    """
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     event_message = f"{participant} {event} at {timestamp}\n"
     print(event_message)  # Print to console
@@ -215,6 +218,7 @@ def create_directory(directory_path):
         return True
     except Exception:
         return False
+
 
 def save_summary_to_file(filepath, summary):
     with open(filepath, 'w') as file:

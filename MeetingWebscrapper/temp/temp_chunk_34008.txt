@@ -1,0 +1,117 @@
+they are
+Prasad Reddy: statically by the router.
+Prasad Reddy: or by dynamically
+Prasad Reddy: by the same router
+Prasad Reddy: or a DSE impact insert.
+Prasad Reddy: We should
+Prasad Reddy: by the
+Prasad Reddy: Their assigned when they are assigned
+Prasad Reddy: assigned what it means is that.
+Prasad Reddy: in Mac address is
+Prasad Reddy: attached to
+Prasad Reddy: is a table that is maintained by
+Prasad Reddy: DHCP server.
+Prasad Reddy: That is how it is done.
+Prasad Reddy: in
+Prasad Reddy: There is something called.
+Prasad Reddy: In the past
+Prasad Reddy: protocol
+Prasad Reddy: That's a
+Prasad Reddy: one is
+Prasad Reddy: in the OSI layers you
+Prasad Reddy: seven layers
+Prasad Reddy: It's basically networking,
+Prasad Reddy: increasing complexity.
+Prasad Reddy: anything at the bottom of
+Prasad Reddy: layer?
+Prasad Reddy: is
+Prasad Reddy: The first layer is considered as a
+Prasad Reddy: physical layer.
+Prasad Reddy: that means
+Prasad Reddy: physical devices considered as
+Prasad Reddy: layer one.
+Prasad Reddy: and then
+Prasad Reddy: the second layer is your Mac ID
+Prasad Reddy: Third layer is a
+Prasad Reddy: IP addresses
+Prasad Reddy: when a
+Prasad Reddy: each other
+Prasad Reddy: switch.
+Prasad Reddy: When they are connected to each other
+Prasad Reddy: the switch the switch will
+Prasad Reddy: certain amount of data.
+Prasad Reddy: if it only maintains the Mac IDs
+Prasad Reddy: is called a layer 2 switch.
+Prasad Reddy: whereas
+Prasad Reddy: if the switch maintains the
+Prasad Reddy: information
+Prasad Reddy: Mac IDs as well as their
+Prasad Reddy: addresses.
+Prasad Reddy: That is
+Prasad Reddy: and layer 3 switch
+Prasad Reddy: These are also called
+Prasad Reddy: switches.
+Prasad Reddy: coming to
+Prasad Reddy: anytime that you basically
+Prasad Reddy: the computer typically
+Prasad Reddy: specify
+Prasad Reddy: Three or four things.
+Prasad Reddy: Those are
+Prasad Reddy: IP address
+Prasad Reddy: and then
+Prasad Reddy: Actually, it's already
+Prasad Reddy: IP address
+Prasad Reddy: Gateway
+Prasad Reddy: and then broadcast
+Prasad Reddy: so these are the four things that
+Prasad Reddy: mentioned.
+Prasad Reddy: So what
+Prasad Reddy: suppose if they have enough
+Prasad Reddy: address
+Prasad Reddy: I'll give an example in for these
+Prasad Reddy: four
+Prasad Reddy: 192.168 Dark One Dark One.
+Prasad Reddy: Subnet is
+Prasad Reddy: Gateway is
+Prasad Reddy: 2.168
+Prasad Reddy: Let's say one.
+Prasad Reddy: Well actually.
+Prasad Reddy: if I
+Prasad Reddy: And broadcast it is.
+Prasad Reddy: 192.1
+Prasad Reddy: 68
+Prasad Reddy: one dot
+Prasad Reddy: 355
+Prasad Reddy: this is a sample that I sent.
+Prasad Reddy: so the
+Prasad Reddy: up a machine.
+Prasad Reddy: You set up something like this.
+Prasad Reddy: if you set up
+Prasad Reddy: IP whereas
+Prasad Reddy: 
+Prasad Reddy: It is received by a DHCP
+Prasad Reddy: it is a dynamic IP.
+Prasad Reddy: Whichever way you set up
+Prasad Reddy: static or dynamic.
+Prasad Reddy: These are the
+Prasad Reddy: there.
+Prasad Reddy: So first one is
+Prasad Reddy: just like a person has a name.
+Prasad Reddy: This is more like
+Prasad Reddy: the number for the computer
+Prasad Reddy: attached to the math ID.
+Prasad Reddy: And what about this subnet?
+Prasad Reddy: subnet is which
+Prasad Reddy: where does this
+Prasad Reddy: Sai
+Prasad Reddy: that
+Prasad Reddy: where
+Prasad Reddy: is.
+Prasad Reddy: Which
+Prasad Reddy: to?
+Prasad Reddy: This is a
+Prasad Reddy: writing here.
+Prasad Reddy: 255 means
+Prasad Reddy: is
+Prasad Reddy: when
+Prasad Reddy: ins

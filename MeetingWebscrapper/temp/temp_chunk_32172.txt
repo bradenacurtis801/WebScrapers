@@ -1,0 +1,104 @@
+
+
+=====================================
+Captured at: 2023-11-14 20:42:49
+
+Prasad Reddy (Host) joined at 2023-11-14 20:42:49
+Prasad Reddy joined at 2023-11-14 20:42:49
+Braden's Scribe joined at 2023-11-14 20:42:49
+Kotha Yashwanth joined at 2023-11-14 20:42:49
+Braden Curtis joined at 2023-11-14 20:42:49
+Sai Rakesh Kumar Reddy joined at 2023-11-14 20:42:49
+Prasad Reddy: Layer one or two.
+Prasad Reddy: That is how we should
+Prasad Reddy: Yashwanth have you
+Prasad Reddy: 
+Prasad Reddy: What is the update from
+Kotha Yashwanth: I did not have a update Baba really.
+Kotha Yashwanth: Sorry Baba.
+Prasad Reddy: Okay.
+Kotha Yashwanth: but I
+Braden Curtis: Well, actually I guess technically in
+Braden Curtis: my mind is working.
+Braden Curtis: It just it just
+Braden Curtis: local database.
+Prasad Reddy: No, no see please again.
+Prasad Reddy: You are good confuse.
+Prasad Reddy: You're creating more problems by
+Prasad Reddy: going in tangents.
+Prasad Reddy: We agreed on one thing.
+Prasad Reddy: First the
+Prasad Reddy: first floor doesn't
+Prasad Reddy: the foundation doesn't work,
+Prasad Reddy: Let us not talk about the eighth
+Prasad Reddy: floor is looking good.
+Braden Curtis: Well, what is your definition of
+Braden Curtis: working?
+Prasad Reddy: My definition of working is
+Prasad Reddy: a container
+Prasad Reddy: for should always be starting from
+Prasad Reddy: the database.
+Prasad Reddy: That means
+Prasad Reddy: with the database table.
+Prasad Reddy: should basically
+Prasad Reddy: through
+Prasad Reddy: Admin.
+Prasad Reddy: If it doesn't work, we need to
+Prasad Reddy: that issue.
+Prasad Reddy: We should not go somewhere.
+Prasad Reddy: That is my
+Braden Curtis: All right.
+Braden Curtis: Where do you want that database to be
+Braden Curtis: created?
+Prasad Reddy: So the database what you do is
+Prasad Reddy: you find
+Prasad Reddy: postgres with the PG admin container
+Prasad Reddy: as a container Docker Hub container
+Prasad Reddy: you simply
+Prasad Reddy: don't have
+Prasad Reddy: computer you
+Prasad Reddy: you can only have
+Prasad Reddy: a multi
+Prasad Reddy: not kubernetes
+Prasad Reddy: I suggest you directly make
+Prasad Reddy: deployment with
+Prasad Reddy: Replica.
+Prasad Reddy: Just one
+Prasad Reddy: postgres container first.
+Prasad Reddy: and then
+Prasad Reddy: this postgres will not have
+Prasad Reddy: even access it from a
+Prasad Reddy: Try to
+Prasad Reddy: second.
+Prasad Reddy: It won't
+Prasad Reddy: We need to open as
+Prasad Reddy: or a load balancer so you guys
+Prasad Reddy: not very comfortable with Ingress.
+Prasad Reddy: I told you
+Prasad Reddy: But you
+Prasad Reddy: if you do
+Prasad Reddy: if you play around this then you
+Prasad Reddy: know.
+Prasad Reddy: The PG admin is accessible.
+Prasad Reddy: That is step one.
+Prasad Reddy: You know what?
+Prasad Reddy: You can easily
+Prasad Reddy: well do this where?
+Prasad Reddy: What you do is don't worry about the
+Prasad Reddy: Ingress controller.
+Prasad Reddy: You simply put a
+Prasad Reddy: note port
+Prasad Reddy: node port for the PG admin
+Prasad Reddy: Then you will
+Prasad Reddy: After this is done.
+Prasad Reddy: Then the
+Prasad Reddy: What is the status
+Prasad Reddy: That avocado thing or avocado.
+Prasad Reddy: What is the guacamole thing?
+Braden Curtis: Um, I mean to my knowledge we
+Braden Curtis: configured that a couple weeks ago,
+Braden Curtis: but we haven't really touched on it
+Braden Curtis: much.
+Prasad Reddy: I would say let us go through that
+Prasad Reddy: because
+Prasad Reddy: we are already 

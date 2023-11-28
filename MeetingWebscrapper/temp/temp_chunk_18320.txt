@@ -1,0 +1,98 @@
+otha: Okay.
+Prasad Reddy: Even if the content are wrong that is
+Prasad Reddy: okay focus on menu and Implement menu
+Prasad Reddy: by tomorrow.
+Yashwanth Kotha: Sounds good.
+Prasad Reddy: And can you show me the components
+Prasad Reddy: that you are using?
+Prasad Reddy: So these are the material UI
+Prasad Reddy: components in react is what you're
+Prasad Reddy: using.
+Yashwanth Kotha: Yes, bye-bye.
+Yashwanth Kotha: So touch the field.
+Yashwanth Kotha: So every component like the GUI
+Yashwanth Kotha: thing.
+Prasad Reddy: Yeah, where is the component Library
+Prasad Reddy: copied from this what I want to know.
+Prasad Reddy: Like in our downloaded from from or
+Prasad Reddy: whatever.
+Prasad Reddy: Okay.
+Prasad Reddy: Okay.
+Prasad Reddy: What?
+Prasad Reddy: Wait a second.
+Prasad Reddy: Yeah, this is what I want to know
+Prasad Reddy: 
+Yashwanth Kotha: imported
+Prasad Reddy: People okay import you basically
+Prasad Reddy: created import of react and then what
+Prasad Reddy: is axiosrec?
+Yashwanth Kotha: Let's use.
+Yashwanth Kotha: Is mostly for the react.
+Yashwanth Kotha: Bye.
+Yashwanth Kotha: it's for
+Yashwanth Kotha: it's like in it's
+Yashwanth Kotha: It is also
+Yashwanth Kotha: It is also.
+Braden Curtis: It's retaining requests.
+Braden Curtis: It's for sending requests.
+Yashwanth Kotha: Yeah, it's for the web server or
+Yashwanth Kotha: something.
+Yashwanth Kotha: Yeah.
+Prasad Reddy: Braden
+Braden Curtis: API endpoint.
+Braden Curtis: That's what axiosis for.
+Yashwanth Kotha: Correct.
+Yashwanth Kotha: Yes.
+Yashwanth Kotha: Yes.
+Prasad Reddy: Gateway to apa okay go up go up.
+Prasad Reddy: Okay, so access I understand.
+Prasad Reddy: 
+Prasad Reddy: And import the text field form
+Prasad Reddy: control input label select menu
+Prasad Reddy: button grid box
+Prasad Reddy: These are all the different
+Prasad Reddy: 
+Prasad Reddy: All right.
+Yashwanth Kotha: Correct, correct.
+Prasad Reddy: It may have hundred of them.
+Prasad Reddy: But if you don't need all of them,
+Prasad Reddy: you're only taking the ones that you
+Prasad Reddy: need.
+Yashwanth Kotha: Correct, correct.
+Prasad Reddy: Does material UI has a version?
+Braden Curtis: um and accusation you'll say
+Prasad Reddy: Okay, and one more thing address form
+Prasad Reddy: from address form improved from
+Prasad Reddy: address form component.
+Prasad Reddy: Why are we taking that?
+Yashwanth Kotha: So it's just an another.
+Yashwanth Kotha: Another Dodge file.
+Yashwanth Kotha: Bye it's little bit more core.
+Yashwanth Kotha: So I just created an another
+Yashwanth Kotha: component for the address.
+Prasad Reddy: Huh?
+Braden Curtis: It's it's for abstraction and it's
+Braden Curtis: it's necessary for these for
+Braden Curtis: especially if it's going to be larger
+Braden Curtis: scale you make great more files.
+Yashwanth Kotha: Correct.
+Braden Curtis: Not a class.
+Prasad Reddy: Am I right?
+Braden Curtis: It's not it's not a class.
+Braden Curtis: It's just a component.
+Braden Curtis: It's just a
+Prasad Reddy: Okay.
+Yashwanth Kotha: So this address from babai after we
+Yashwanth Kotha: import we know in here.
+Yashwanth Kotha: We just use address like just we type
+Yashwanth Kotha: this this comma you know
+Prasad Reddy: I understand.
+Yashwanth Kotha: Yeah, yeah.
+Braden Curtis: Yes.
+Yashwanth Kotha: Connect yes.
+Prasad Reddy: But then you are going to be locked
+Prasad Reddy: into five line address form three
+Prasad Reddy: line address form and 7 line address
+Prasad Reddy: form.
+Prasad Reddy: Am I right?
+Prasad Reddy: Am I 
